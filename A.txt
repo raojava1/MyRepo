@@ -1,1 +1,3 @@
 Here is the first message.
+added few lines
+added few lines in A file

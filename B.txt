@@ -1,1 +1,2 @@
 Here is the second message
+added few lines in B file
